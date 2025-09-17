@@ -6,7 +6,7 @@ This repository contains a comprehensive collection of my professional certifica
 
 | Certification Description | Verification Link | Status |
 |---------------------------|-------------------|---------|
-| Foundations of Cybersecurity | https://cour sera.org/ver ify/WXA9G34LRVDZ | Completed |
-| Play It Safe: Manage Security Risks | https://cour sera.org/ver ify/WA010MFKSJFE | Completed |
-| Connect and Protect Networks and Network Security | https://cour sera.org/ver ify/1660FTI60QYD | Completed |
+| Foundations of Cybersecurity | https://coursera.org/ver ify/WXA9G34LRVDZ | Completed |
+| Play It Safe: Manage Security Risks | https://coursera.org/ver ify/WA010MFKSJFE | Completed |
+| Connect and Protect Networks and Network Security | https://coursera.org/ver ify/1660FTI60QYD | Completed |
 
